@@ -6,6 +6,5 @@
 ```bash
 export YATOKEN = "your yandex cloud api key"
 export BUCKET = "your public bucket name"
-./gradlew run
 ```
 
